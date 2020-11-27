@@ -1,1 +1,2 @@
-# MangoBoy3
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
